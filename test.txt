@@ -1,8 +1,1 @@
 Testing it
-<<<<<<< Updated upstream
-=======
-
-
-texting today
-testing one more time
->>>>>>> Stashed changes
